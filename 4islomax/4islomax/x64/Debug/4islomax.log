@@ -1,0 +1,3 @@
+﻿  4islomax.cpp
+C:\Users\Владелец\Desktop\VisyalStudio\4islomax\4islomax\4islomax.cpp(9,60): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  4islomax.vcxproj -> C:\Users\Владелец\Desktop\VisyalStudio\4islomax\x64\Debug\4islomax.exe
